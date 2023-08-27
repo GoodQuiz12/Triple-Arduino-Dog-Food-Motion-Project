@@ -1,0 +1,3 @@
+-This Project is for use for pet owners who cannot feed their pets while they are away from home. 
+-This automated system helps the owners take track of water levels, and help them feed their dogs from their work or their job. 
+-This system only requires the owner to fill up the containers and the system will dispense by itself.
